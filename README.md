@@ -1,9 +1,4 @@
----
-language: none
-tags: html5, semantic elements, forms, input, audio, video, media
-type: intro
-resources: 0
----
+
 
 ## HTML5 Media, Forms, and Semantic Elements
 
