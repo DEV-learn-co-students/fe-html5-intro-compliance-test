@@ -20,4 +20,4 @@ In this unit we will learn additional HTML elements for user input, semantic ele
   - Figure
   - Figcaption
 - Iframe
-<a href='https://learn.co/lessons/fe-html5-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/fe-html5-intro' title='HTML5 Media, Forms, and Semantic Elements'>HTML5 Media, Forms, and Semantic Elements</a> on Learn.co and start learning to code for free.</p>
